@@ -1,0 +1,1 @@
+My Python Game of life implementation. Its on the initial state, implemented algorithm and need some refactoring and optimization.
